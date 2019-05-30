@@ -9,9 +9,13 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 
 ## Contents
 
+- [Datasets](#Datasets)
 - [R](#R)
 - [Python](#Python)
 - [Databases](#Databases)
+
+## Datasets
+* [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
 
 ## R
 * [Awesome R](https://github.com/qinwf/awesome-R#readme) - more awesomeness related to this topic.
