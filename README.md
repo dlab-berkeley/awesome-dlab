@@ -13,6 +13,7 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 - [R](#R)
 - [Python](#Python)
 - [Databases](#Databases)
+- [Systems Administration](#Systems Administration)
 
 ## Datasets
 * [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
@@ -27,3 +28,7 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 * [sqlitebiter](https://github.com/thombashi/sqlitebiter) - a CLI tool to convert CSV / Excel / HTML / JSON / and many other formats to a SQLite database file.
 * [Awesome SQL](https://github.com/danhuss/awesome-sql) - more awesomeness related to this topic.
+
+## Systems Administration
+* [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
+* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - more awesomeness related to this topic.
