@@ -25,6 +25,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## R
 * [Awesome R](https://github.com/qinwf/awesome-R#readme) - more awesomeness related to this topic.
 
+* [rio: A Swiss-Army Knife for Data I/O](https://cran.r-project.org/web/packages/rio/vignettes/rio.html) - Import, Export, and Convert Data Files including web-based import, reading compressed files directly without explicit decompression, and 'convert()' function for converting between file types.
+
 ## Python
 * [Awesome Python](https://github.com/vinta/awesome-python#readme) - more awesomeness related to this topic.
 
