@@ -35,6 +35,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 * [sqlitebiter](https://github.com/thombashi/sqlitebiter) - a CLI tool to convert CSV / Excel / HTML / JSON / and many other formats to a SQLite database file.
 * [Awesome SQL](https://github.com/danhuss/awesome-sql) - more awesomeness related to this topic.
 
+* [binder-postgres](https://github.com/ouseful-template-repos/binder-postgres) - Demo of launching a binderhub notebook server with a free running Postgres server. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-template-repos/binder-postgres/master?filepath=notebooks%2FTest%20Databases.ipynb)
+
 ## Systems Administration
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - more awesomeness related to this topic.
