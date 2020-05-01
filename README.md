@@ -19,6 +19,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## Datasets
 * [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
 * [DEA Pain Pills Database](https://www.washingtonpost.com/national/2019/07/18/how-download-use-dea-pain-pills-database/) - The Washington Post published a significant portion of a database that tracks the path of every opioid pain pill, from manufacturer to pharmacy, in the United States between 2006 and 2012.
+* [Awesome Public Data](https://github.com/awesomedata/awesome-public-datasets)
+
 ## Natural Language Processing (NLP)
 * [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 
