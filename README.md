@@ -22,10 +22,17 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## Natural Language Processing (NLP)
 * [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 
+## Rosetta Stones
+* [Rosetta: Python, R, Stata Rosetta Stone. Projects implemented in each language side-by-side.](https://github.com/adamrossnelson/rosetta)
+* [Stata to Pandas Cross-Walk](https://github.com/adamrossnelson/StataQuickReference/blob/master/spcrosswlk.md)
+
 ## R
 * [Awesome R](https://github.com/qinwf/awesome-R#readme) - more awesomeness related to this topic.
 
 * [rio: A Swiss-Army Knife for Data I/O](https://cran.r-project.org/web/packages/rio/vignettes/rio.html) - Import, Export, and Convert Data Files including web-based import, reading compressed files directly without explicit decompression, and 'convert()' function for converting between file types.
+
+## PDF
+* [Working with PDFs in Python](https://stackabuse.com/working-with-pdfs-in-python-reading-and-splitting-pages/) - Describes a range of Python libraries and and examples to work with PDFs: Reading and Splitting Pages; Adding Images and Watermarks; Inserting, Deleting, and Reordering Pages
 
 ## Python
 * [Awesome Python](https://github.com/vinta/awesome-python#readme) - more awesomeness related to this topic.
