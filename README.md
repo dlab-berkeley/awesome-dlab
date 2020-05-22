@@ -11,8 +11,10 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 
 - [Datasets](#datasets)
 - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+- [Rosetta Stones](#rosetta-stones)
 - [R](#r)
 - [Python](#python)
+- [PDF](#pdf)
 - [Databases](#databases)
 - [Systems Administration](#systems-administration)
 
