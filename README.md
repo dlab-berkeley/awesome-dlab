@@ -19,6 +19,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## Datasets
 * [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
 * [DEA Pain Pills Database](https://www.washingtonpost.com/national/2019/07/18/how-download-use-dea-pain-pills-database/) - The Washington Post published a significant portion of a database that tracks the path of every opioid pain pill, from manufacturer to pharmacy, in the United States between 2006 and 2012.
+* [Awesome Public Data](https://github.com/awesomedata/awesome-public-datasets) - list of a topic-centric public data sources collected and tidied from blogs, answers, and user responses.
+
 ## Natural Language Processing (NLP)
 * [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 
@@ -41,7 +43,7 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 * [sqlitebiter](https://github.com/thombashi/sqlitebiter) - a CLI tool to convert CSV / Excel / HTML / JSON / and many other formats to a SQLite database file.
 * [Awesome SQL](https://github.com/danhuss/awesome-sql) - more awesomeness related to this topic.
-
+* [fuzzy string matching with Postgresql](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) - exampls of different ways to match strings using PostgreSQL and extensions.
 * [binder-postgres](https://github.com/ouseful-template-repos/binder-postgres) - Demo of launching a binderhub notebook server with a free running Postgres server. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-template-repos/binder-postgres/master?filepath=notebooks%2FTest%20Databases.ipynb)
 
 ## Systems Administration
