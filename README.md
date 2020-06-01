@@ -48,6 +48,10 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 * [fuzzy string matching with Postgresql](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) - exampls of different ways to match strings using PostgreSQL and extensions.
 * [binder-postgres](https://github.com/ouseful-template-repos/binder-postgres) - Demo of launching a binderhub notebook server with a free running Postgres server. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-template-repos/binder-postgres/master?filepath=notebooks%2FTest%20Databases.ipynb)
 
+## Bash 
+* [miller](https://github.com/johnkerl/miller) - With Miller, you get to use named fields without needing to count positional indices, using familiar formats such as CSV, TSV, JSON, and positionally-indexed.
+* [q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files
+
 ## Systems Administration
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - more awesomeness related to this topic.
