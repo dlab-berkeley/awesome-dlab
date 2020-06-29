@@ -37,6 +37,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 
 * [rio: A Swiss-Army Knife for Data I/O](https://cran.r-project.org/web/packages/rio/vignettes/rio.html) - Import, Export, and Convert Data Files including web-based import, reading compressed files directly without explicit decompression, and 'convert()' function for converting between file types.
 
+* [makereproducible](https://github.com/jaeyk/makereproducible): R package for making a project computationally reproducible before sharing it
+
 ## PDF
 * [Working with PDFs in Python](https://stackabuse.com/working-with-pdfs-in-python-reading-and-splitting-pages/) - Describes a range of Python libraries and and examples to work with PDFs: Reading and Splitting Pages; Adding Images and Watermarks; Inserting, Deleting, and Reordering Pages
 
