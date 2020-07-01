@@ -17,6 +17,7 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 - [PDF](#pdf)
 - [Databases](#databases)
 - [Systems Administration](#systems-administration)
+- [Cloud computing](#cloud-computing) 
 
 ## Datasets
 * [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
@@ -59,3 +60,6 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## Systems Administration
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - more awesomeness related to this topic.
+
+## Cloud Computing 
+* [Binder](https://mybinder.org/) - To turn a Git repo into a collection of interactive notebooks. A great tool for teaching workshops. 
