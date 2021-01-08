@@ -17,7 +17,7 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 - [PDF](#pdf)
 - [Databases](#databases)
 - [Systems Administration](#systems-administration)
-- [Cloud computing](#cloud-computing) 
+- [Cloud computing](#cloud-computing)
 
 ## Datasets
 * [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
@@ -51,16 +51,17 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 * [sqlitebiter](https://github.com/thombashi/sqlitebiter) - a CLI tool to convert CSV / Excel / HTML / JSON / and many other formats to a SQLite database file.
 * [Awesome SQL](https://github.com/danhuss/awesome-sql) - more awesomeness related to this topic.
-* [fuzzy string matching with Postgresql](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) - exampls of different ways to match strings using PostgreSQL and extensions.
+* [fuzzy string matching with Postgresql](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) - examples of different ways to match strings using PostgreSQL and extensions.
 * [binder-postgres](https://github.com/ouseful-template-repos/binder-postgres) - Demo of launching a binderhub notebook server with a free running Postgres server. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-template-repos/binder-postgres/master?filepath=notebooks%2FTest%20Databases.ipynb)
 
-## Bash 
+
+## Bash
 * [miller](https://github.com/johnkerl/miller) - With Miller, you get to use named fields without needing to count positional indices, using familiar formats such as CSV, TSV, JSON, and positionally-indexed.
-* [q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files
+* [q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files.
 
 ## Systems Administration
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - more awesomeness related to this topic.
 
-## Cloud Computing 
-* [Binder](https://mybinder.org/) - To turn a Git repo into a collection of interactive notebooks. A great tool for teaching workshops. 
+## Cloud Computing
+* [Binder](https://mybinder.org/) - To turn a Git repo into a collection of interactive notebooks. A great tool for teaching workshops.
