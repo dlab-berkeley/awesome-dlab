@@ -53,6 +53,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 * [Awesome SQL](https://github.com/danhuss/awesome-sql) - more awesomeness related to this topic.
 * [fuzzy string matching with Postgresql](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/) - examples of different ways to match strings using PostgreSQL and extensions.
 * [binder-postgres](https://github.com/ouseful-template-repos/binder-postgres) - Demo of launching a binderhub notebook server with a free running Postgres server. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ouseful-template-repos/binder-postgres/master?filepath=notebooks%2FTest%20Databases.ipynb)
+* [SQL Join Types Explained in Visuals](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/) - Simple, useful visual expalanation of joins in SQL.
+* [Understanding Joins in Relational data | R for Data Science](https://r4ds.had.co.nz/relational-data.html#understanding-joins) - Visual expalanation of joins in SQL with the addition of R code and variables.
 
 
 ## Bash
