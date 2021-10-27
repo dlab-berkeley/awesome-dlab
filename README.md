@@ -33,6 +33,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## Rosetta Stones
 * [Rosetta: Python, R, Stata Rosetta Stone. Projects implemented in each language side-by-side.](https://github.com/adamrossnelson/rosetta)
 * [Stata to Pandas Cross-Walk](https://github.com/adamrossnelson/StataQuickReference/blob/master/spcrosswlk.md)
+* [Data Science Rosetta Stone](http://www.datasciencerosettastone.com/) - A Tutorial of and Translation between Data Science Programming Languages
+
 
 ## R
 * [Awesome R](https://github.com/qinwf/awesome-R#readme) - more awesomeness related to this topic.
