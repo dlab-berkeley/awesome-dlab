@@ -18,6 +18,7 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 - [Databases](#databases)
 - [Systems Administration](#systems-administration)
 - [Cloud computing](#cloud-computing)
+- [Reproducibility](#reproducibility)
 
 ## Datasets
 * [Case.Law](https://case.law/) - all official, book-published United States case law — every volume designated as an official report of decisions by a court within the United States.
@@ -69,3 +70,6 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 
 ## Cloud Computing
 * [Binder](https://mybinder.org/) - To turn a Git repo into a collection of interactive notebooks. A great tool for teaching workshops.
+
+## Reproducibility
+* [The Turing Way handbook](https://github.com/alan-turing-institute/the-turing-way#readme) - a handbook to reproducible, ethical and collaborative data science.
