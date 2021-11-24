@@ -73,3 +73,4 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 
 ## Reproducibility
 * [The Turing Way handbook](https://github.com/alan-turing-institute/the-turing-way#readme) - a handbook to reproducible, ethical and collaborative data science.
+* [MRAN Timemachine](https://mran.microsoft.com/timemachine) - For the purpose of reproducibility, MRAN hosts daily snapshots of the CRAN R packages and R releases as far back as Sept. 17, 2014.
