@@ -63,6 +63,8 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 ## Bash
 * [miller](https://github.com/johnkerl/miller) - With Miller, you get to use named fields without needing to count positional indices, using familiar formats such as CSV, TSV, JSON, and positionally-indexed.
 * [q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files.
+* [jq](https://stedolan.github.io/jq) - jq is a lightweight and flexible command-line JSON processor.
+* [jid](https://github.com/simeji/jid) - JSON Incremental Digger to drill down interactively by using filtering queries like jq.
 
 ## Systems Administration
 * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
